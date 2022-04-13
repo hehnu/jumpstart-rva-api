@@ -1,1 +1,1 @@
-Back-end server side of REST API, utilizing Node.js, Mongoose, and Express.
+Back-end REST API, utilizing Node.js, Mongoose, and Express.
